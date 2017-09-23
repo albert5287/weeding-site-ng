@@ -1,0 +1,64 @@
+/*!---------- ACCOMMODATION ----------*/
+.accom-1 h1,
+.accom-1 h2,
+.accom-1 h3,
+.accom-1 h4,
+.accom-1 h5,
+.accom-1 h6 {
+    color: #ffffff;
+}
+
+.accom-1 p,
+.accom-1 span,
+.accom-1 li {
+    color: #ffffff;
+}
+
+.accom-1.light h1,
+.accom-1.light h2,
+.accom-1.light h3,
+.accom-1.light h4,
+.accom-1.light h5,
+.accom-1.light h6 {
+    color: #222222;
+}
+
+.accom-1.light p,
+.accom-1.light span,
+.accom-1.light li {
+    color: #444444;
+}
+
+.accom-1 h6 {
+    margin-bottom: 30px;
+}
+
+.accom-1 h1 {
+    margin-bottom: 40px;
+}
+
+.accom-1 p:last-of-type {
+    margin-bottom: 40px;
+}
+
+.accom-2 {
+    padding-bottom: 60px;
+}
+
+.accom-2 .feature {
+    margin-bottom: 60px;
+}
+
+.accom-2 h2 {
+    margin-bottom: 60px;
+}
+
+.accom-2 img {
+    display: inline-block;
+    margin-bottom: 30px;
+}
+
+.accom-2 h6 {
+    color: #75c5b1;
+    margin-bottom: 15px;
+}
